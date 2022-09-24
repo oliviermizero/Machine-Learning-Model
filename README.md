@@ -2,7 +2,7 @@
 Comprehensive Machine Learning Model for Image Segmentation
 
 This Folder Should contain everything, except the bulk of the code, which is located 
-https://github.com/CChristenson1/Mask_RCNN.git
+https://github.com/oliviermizero/Machine-Learning-Model/
 Included here is:
 -	A list of possible feature to extract and ideas on how to do so.
 -	The code to split, and project the videos to individual images
